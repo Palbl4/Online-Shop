@@ -2,7 +2,7 @@ while True:
     try:
         enter = float(input('Введите число: '))
         print(100 / enter)
-
+# Этот комментарий будет в ветке test
     except ValueError:
         print('Вы ввели не число!!!')
 
@@ -14,6 +14,5 @@ while True:
 
     finally:
         print('Вывод финали')
-wdqdqwdqw dg
+
 print('Все норм ')
-gegeg eg e

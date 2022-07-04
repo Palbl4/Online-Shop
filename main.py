@@ -5,6 +5,8 @@ while True:
         print(200 // enter)
 
 
+oejgwejgwe ppsojfopjopjfojf njwoo
+
     except ValueError:
         print('Вы ввели не число!!!')
 

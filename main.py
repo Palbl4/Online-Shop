@@ -2,6 +2,7 @@ while True:
     try:
         enter = float(input('Введите число: '))
         print(100 / enter)
+        print(200 // enter)
 
     except ValueError:
         print('Вы ввели не число!!!')

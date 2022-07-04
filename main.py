@@ -3,6 +3,7 @@ while True:
         enter = float(input('Введите число: '))
         print(100 / enter)
         print(200 // enter)
+        print(500 % enter)
 
     except ValueError:
         print('Вы ввели не число!!!')
@@ -16,4 +17,4 @@ while True:
     finally:
         print('Вывод финали')
 
-print('Все норм ')
+print('Все норм Братва')

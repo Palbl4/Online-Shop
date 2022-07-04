@@ -14,5 +14,6 @@ while True:
 
     finally:
         print('Вывод финали')
-
+wdqdqwdqw dg
 print('Все норм ')
+gegeg eg e

@@ -1,3 +1,10 @@
+
+def sum(a, b):
+    return a + b
+
+
+print(sum(1, 4))
+
 while True:
     try:
         enter = float(input('Введите число: '))

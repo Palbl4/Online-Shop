@@ -5,7 +5,7 @@ while True:
         print(200 // enter)
 
 #Пошлю его на небо за звездочкой
-
+#теперь все ххорошо
 
     except ValueError:
         print('Вы ввели не число!!!')

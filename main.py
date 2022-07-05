@@ -4,7 +4,7 @@ while True:
         print(100 / enter)
         print(200 // enter)
 
-
+#Пошлю его на небо за звездочкой
 
 
     except ValueError:
